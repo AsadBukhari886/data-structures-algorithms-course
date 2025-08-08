@@ -74,6 +74,7 @@ Full Stack Developer | AI Engineer | Tech Mentor
 [LinkedIn](https://www.linkedin.com/in/umar-mazhar/)
 
 **Qurat Ul Ain**
+---
 
 ## 💡 Tips for Success
 
