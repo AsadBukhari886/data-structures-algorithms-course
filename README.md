@@ -70,10 +70,12 @@ Full Stack Developer | AI Engineer | Tech Mentor
 
 ## Moderators
 
-**Umer Mazhar**
+- **Umer Mazhar**
 [LinkedIn](https://www.linkedin.com/in/umar-mazhar/)
 
-**Qurat Ul Ain**
+- **Qurat Ul Ain**
+
+
 ---
 
 ## 💡 Tips for Success
