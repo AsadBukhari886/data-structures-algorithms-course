@@ -53,3 +53,43 @@ Each week is packed with carefully structured topics, problems, and practice set
 ---
 
 
+Each folder contains:
+- 📘 **Concept Notes**
+- 💡 **Solved Examples**
+- 🧪 **Practice Problems with Solutions**
+
+---
+
+## 👨‍🏫 Instructor
+
+**Asad Bukhari**  
+Full Stack Developer | AI Engineer | Tech Mentor  
+📧 [LinkedIn](https://www.linkedin.com/in/asadbukhari886/)
+
+---
+
+## Moderators
+
+**Umer Mazhar**
+[LinkedIn](https://www.linkedin.com/in/umar-mazhar/)
+
+**Qurat Ul Ain**
+
+## 💡 Tips for Success
+
+- ✅ Be consistent with daily practice  
+- ✅ Solve problems without looking at solutions first  
+- ✅ Ask questions and collaborate  
+- ✅ Practice on platforms like [LeetCode](https://leetcode.com), [HackerRank](https://www.hackerrank.com), or [Codeforces](https://codeforces.com)
+
+---
+
+## ⭐️ Star the Repo
+
+If you find this helpful, don’t forget to **⭐ the repo** and share it with your peers!
+
+---
+
+Happy Learning & Keep Coding! 🔥
+
+
