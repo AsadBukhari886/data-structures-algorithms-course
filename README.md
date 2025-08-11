@@ -29,7 +29,6 @@ Full Stack Developer | AI Engineer | Tech Mentor
 
 ## Co-trainer
 **Wania Manzoor**
-
 [Linkedin](https://www.linkedin.com/in/wania-manzoor-/)
 
 ---
