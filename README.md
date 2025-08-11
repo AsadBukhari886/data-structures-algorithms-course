@@ -6,6 +6,19 @@ Welcome to the official repository for our **6-week DSA Bootcamp**! This course 
 
 ---
 
+## 📌 Prerequisites
+
+Before starting this course, you should have **basic programming knowledge** in at least **one programming language** (Python, Java, C++, or JavaScript).
+
+You should be able to:
+- Declare and use variables
+- Write and understand loops (`for`, `while`)
+- Use conditionals (`if`, `else`)
+- Define and call functions/methods
+- Work with arrays/lists in your chosen language
+
+---
+
 ## 👨‍🏫 Instructor
 
 **Asad Bukhari**  
@@ -14,7 +27,7 @@ Full Stack Developer | AI Engineer | Tech Mentor
 
 ---
 
-## co-trainer
+## Co-trainer
 **Wania Manzoor**
 
 [Linkedin](https://www.linkedin.com/in/wania-manzoor-/)
