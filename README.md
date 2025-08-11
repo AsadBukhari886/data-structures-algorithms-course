@@ -12,12 +12,13 @@ Welcome to the official repository for our **6-week DSA Bootcamp**! This course 
 Full Stack Developer | AI Engineer | Tech Mentor  
 📧 [LinkedIn](https://www.linkedin.com/in/asadbukhari886/)
 
+
 ---
 
 ## Moderators
 
 - **Umer Mazhar** — [LinkedIn](https://www.linkedin.com/in/umar-mazhar/)  
-- **Qurat Ul Ain**
+- **Qurat Ul Ain** - [LinedIn](https://www.linkedin.com/in/qurat-ul-ain-9444392b9)
 
 ---
 
@@ -26,7 +27,7 @@ Full Stack Developer | AI Engineer | Tech Mentor
 ---
 
 ### 🧠 Week 1: Introduction to DSA & Arrays  
-- **Day 1 (Monday, 11 August 2025):** What is DSA? | Time & Space Complexity | Arrays Deep Dive  
+- **Day 1 (Monday, 11 August 2025):** What is DSA? | Arrays Deep Dive  
 - **Day 2 (Tuesday, 12 August 2025):** Array Problems (Part 1)  
 - **Day 3 (Wednesday, 13 August 2025):** Array Problems (Part 2)  
 - **Day 4 (Thursday, 14 August 2025):** Array Problems (Part 3)  
