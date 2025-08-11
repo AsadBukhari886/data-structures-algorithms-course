@@ -10,15 +10,21 @@ Welcome to the official repository for our **6-week DSA Bootcamp**! This course 
 
 **Asad Bukhari**  
 Full Stack Developer | AI Engineer | Tech Mentor  
-📧 [LinkedIn](https://www.linkedin.com/in/asadbukhari886/)
+[LinkedIn](https://www.linkedin.com/in/asadbukhari886/)
 
+---
+
+## co-trainer
+**Wania Manzoor**
+
+[Linkedin](https://www.linkedin.com/in/wania-manzoor-/)
 
 ---
 
 ## Moderators
 
 - **Umer Mazhar** — [LinkedIn](https://www.linkedin.com/in/umar-mazhar/)  
-- **Qurat Ul Ain** - [LinedIn](https://www.linkedin.com/in/qurat-ul-ain-9444392b9)
+- **Qurat Ul Ain** - [LinkedIn](https://www.linkedin.com/in/qurat-ul-ain-9444392b9)
 
 ---
 
